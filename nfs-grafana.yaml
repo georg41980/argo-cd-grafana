@@ -1,7 +1,6 @@
 ---
 # This pod mounts the nfs volume claim into /usr/share/nginx/html and
 # serves a simple web page.
-
 apiVersion: apps/v1
 kind: Deployment
 metadata:
